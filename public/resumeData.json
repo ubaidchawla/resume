@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Ubaid Ur Rehman",
+    "occupation":"Full Stack Developer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"A sound scholastic record, capacity to comprehend and test programming, working information on app development and a good understanding of web development technologies. I am working as a full stack developer to advance my insight in this area and use my skills.",
+    "contactmessage":"Change you ideas into real applications.",
+    "email": "hafizubaidchawla@outlook.com",
+    "phone": "92-324-7648950",
+    "address":{
+      "street":"P-7, Gulzar Colony",
+      "city":"Faisalabad",
+      "state":"Pakistan",
+      "zip": "38000"
+    },
+    "website": "http://www.ubaidchawla.com",
+    "resumedownload":"http://ubaidresume.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/hafizubaidchawla",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ubaid_chawla",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ubaid-ur-rehman-469850ba/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/11357910/ubaid-chawla",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ubaidchawla",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+        "degree":"Bachelors in Computer Sciences",
+        "graduated":"June 2020",
+        "description":"Starting as a mediocre student and being able to adjust to semester system was never easy. But by the end of freshman year I learned alot. Transformed my self to a good student along with some basic experience of web development before starting my sophomore year. Ended the degree on a high with the tag of being a good Student and an experienced Web Developer. "
+      }
+    ],
+    "work":[
+      {
+        "company":"Devzone IT",
+        "title":"Full Stack Developer",
+        "years":"July 2020 - Present",
+        "description":"Building NodeJS rest APIs with documentation and AWS cloud services"
+      },
+      {
+        "company":"GIKI Web Team",
+        "title":"Senior Web Developer",
+        "years":"October 2018 - June 2020",
+        "description":"Worked for Revamp of Admin Panel of GIK Website and Helped juniors getting started with nodeJS"
+      },
+      {
+        "company":"Pakservers",
+        "title":"Web development Intern",
+        "years":"July 2019 - August 2019",
+        "description":"Created and Used RESTFUL APIs using NodeJS, Used mongoDB as database and Reactjs as frontend tool."
+      },
+      {
+        "company":"Creatrixe Software",
+        "title":"Front-End Development Intern",
+        "years":"June 2018 - August 2018",
+        "description": "Learned Laravel and made a small project for practice. Made frontend changes needed in the ongoing projectusing bootstrap and JavaScript. Learned working with Firebase and the usage of Google Adsense"
+      }
+    ],
+    "skills":[
+      {
+        "name":"NodeJS",
+        "level":"75%"
+      },
+      {
+        "name":"Laravel",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
